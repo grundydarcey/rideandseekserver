@@ -30,12 +30,11 @@
     "morgan": "^1.10.0",
     "path": "^0.12.7",
     "pg": "^8.5.1",
-    "postgrator": "^4.2.0",
+    "postgrator-cli": "^4.0.0",
     "supertest": "^6.0.1",
     "xss": "^1.0.9"
   },
   "devDependencies": {
-    "nodemon": "^2.0.6",
-    "postgrator-cli": "^3.2.0"
+    "nodemon": "^2.0.6"
   }
 }
