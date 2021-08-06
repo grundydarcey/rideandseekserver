@@ -6,5 +6,5 @@ pg.defaults.ssl = process.env.NODE_ENV === 'production' ? { rejectUnauthorized: 
 module.exports = {
   'migrationsDirectory': 'migrations',
   'driver': 'pg',
-  'connectionString': process.env.DB_URL,
+  'connectionString': process.env.DATABASE_URL,
 };
