@@ -26,8 +26,10 @@
     "knex": "^0.95.8",
     "mocha": "^8.2.1",
     "morgan": "^1.10.0",
+    "path": "^0.12.7",
     "pg": "^8.5.1",
-    "supertest": "^6.0.1"
+    "supertest": "^6.0.1",
+    "xss": "^1.0.9"
   },
   "devDependencies": {
     "nodemon": "^2.0.6",
